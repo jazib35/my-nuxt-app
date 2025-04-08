@@ -255,6 +255,8 @@
         </div>
       </div>
     </div>
+    <br />
+    <slider2 />
     <hr />
 
     <fotter />
