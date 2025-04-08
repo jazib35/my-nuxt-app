@@ -1,0 +1,102 @@
+[
+  {
+     "id": 1,
+     "image_src": "/kfc.jpeg", 
+     "name": "KFC",
+     "category" : "Fast Food",
+     "cuisines": [
+        "Pakistani",
+        "Chinese",
+        "Indian"
+     ],
+     "decription": "Kotla arab ali khan",
+     "only_halal": true,
+     "serve_alcohal": false,
+     "rating": 4,
+     "comment":4,
+     "distance":8
+     },
+
+     {
+        "id": 2,
+        "image_src": "/onestop.png", 
+        "name": "One Stop",
+        "category" : "Bakers",
+        "decription":"gujrat",
+        "cuisines": [
+        "Pakistani",
+        "Chinese",
+        "American",
+        "Indian"],
+        "only_halal": true,
+        "serve_alcohal": false,
+        "rating": 5,
+        "comment":3,
+        "distance":32
+        },
+        {
+            "id": 3,
+            "image_src": "/onestop.png", 
+            "name": "Ajwa",
+            "category" : "Bakers",
+            "decription":"kharian",
+            "cuisines": [
+            "Pakistani",
+            "Chinese",
+            "American",
+            "Indian"],
+            "only_halal": true,
+            "serve_alcohal": true,
+            "rating": 5,
+            "comment":3,
+            "distance":23
+            },
+            {
+                "id": 4,
+                "image_src": "/onestop.png", 
+                "name": "Ston bake",
+                "category" : "hotel",
+                "decription":"ajk",
+                "cuisines": [
+                "Pakistani",
+                "Chinese", 
+                "Indian"],
+                "only_halal": false,
+                "serve_alcohal": true,
+                "rating": 3,
+                "comment":3,
+                "distance":2
+                },
+                {
+                  "id": 5,
+                  "image_src": "/onestop.png", 
+                  "name": " Bake",
+                  "category" : "hotel",
+                  "decription":"jahlum",
+                  "cuisines": [
+                  "Pakistani",
+                  "Chinese", 
+                  "Indian"],
+                  "only_halal": true,
+                  "serve_alcohal": true,
+                  "rating": 2,
+                  "comment":3,
+                  "distance":12
+                  },
+                  {
+                     "id": 5,
+                     "image_src": "/onestop.png", 
+                     "name": " Bake",
+                     "category" : "hotel",
+                     "decription":"jahlum",
+                     "cuisines": [
+                     "Pakistani",
+                     "Chinese", 
+                     "Indian"],
+                     "only_halal": true,
+                     "serve_alcohal": true,
+                     "rating": 5,
+                     "comment":3,
+                     "distance":4
+                     }
+]
