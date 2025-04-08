@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h2>halo</h2>
-    <p>!</p>
+    <NuxtPage />
   </div>
 </template>
